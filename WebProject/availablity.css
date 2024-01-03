@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 250px auto;
+    background-color: #fff;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+}
+.ava{
+    color: green;
+}
+
+h1 {
+    color: #3498db;
+}
+
+.availability-message {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.login-prompt {
+    font-size: 16px;
+    color: #777;
+}
+
+.login-link {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.login-link:hover {
+    text-decoration: underline;
+}

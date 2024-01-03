@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  h1 {
+    text-align: center;
+    padding: 40px;
+    background-color: teal  ;
+  }
+  .signup {
+    display: flex;
+    justify-content: center;
+    padding: 140px;
+  }
+  #fname {
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    margin-bottom: 10px;
+    
+  }
+  #email {
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    margin-bottom: 10px;
+    
+  }
+  #pass {
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    margin-bottom: 10px;
+    
+  }
+  #btn {
+    height: 30px;
+    width: 70px;
+    border: solid 1px;
+    border-radius: 5px;
+  }
